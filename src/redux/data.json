@@ -1,0 +1,148 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "title": "Outriders - PlayStation 4",
+            "poster": "https://m.media-amazon.com/images/I/91Vrm3FwwUL._AC_UY218_.jpg",
+            "price": 229,
+            "brand": "WB Games en Perú",
+            "store": "amazon",
+            "weight": 0.225
+        },
+        {
+            "id": 2,
+            "title": "Mortal KOMBAT 11 Ultimate - PlayStation 4",
+            "poster": "https://m.media-amazon.com/images/I/81YT-Lq-nyL._AC_UY218_.jpg",
+            "price": 229,
+            "brand": "IO Interactive A/S en Perú",
+            "store": "amazon",
+            "weight": 0.225
+        },
+        {
+            "id": 3,
+            "title": "Hitman 3 - PlayStation 4 Standard Edition",
+            "poster": "https://m.media-amazon.com/images/I/81fx2K7F5rL._AC_UY218_.jpg",
+            "price": 125,
+            "brand": "505 Games en Perú",
+            "store": "amazon",
+            "weight": 0.225
+        },
+        {
+            "id": 4,
+            "title": "Bloodstained: Ritual of the Night (PS4)",
+            "poster": "https://m.media-amazon.com/images/I/81-2pPZzp9L._AC_UY218_.jpg",
+            "price": 115,
+            "brand": "Merge Games en Perú",
+            "store": "amazon",
+            "weight": 0.225
+        },
+        {
+            "id": 5,
+            "title": "Override 2: Ultraman Deluxe Edition (PS4) - PlayStation 4",
+            "poster": "https://m.media-amazon.com/images/I/91k2qp0P2sL._AC_UY218_.jpg",
+            "price": 150,
+            "brand": "Modus Store en Perú",
+            "store": "amazon",
+            "weight": 0.225
+        },
+        {
+            "id": 6,
+            "title": "Dying Light Anniversary Edition - PlayStation 4",
+            "poster": "https://m.media-amazon.com/images/I/71vEQWBgjPL._AC_UY218_.jpg",
+            "price": 150,
+            "brand": "Square Enix en Perú",
+            "store": "amazon",
+            "weight": 0.225
+        },
+        {
+            "id": 7,
+            "title": "Immortals Fenyx Rising Gold Edition - PlayStation 4",
+            "poster": "https://m.media-amazon.com/images/I/81pnaBq6wWL._AC_UY218_.jpg",
+            "price": 379,
+            "brand": "Ubisoft Store en Peru",
+            "store": "amazon",
+            "weight": 0.529
+        },
+        {
+            "id": 8,
+            "title": "Umihara Kawase Bazooka! - PlayStation 4 Edition",
+            "poster": "https://m.media-amazon.com/images/I/71eWM1dxL6L._AC_UY218_.jpg",
+            "price": 135,
+            "brand": "ININ en Perú",
+            "store": "amazon",
+            "weight": 0.225
+        },
+        {
+            "id": 9,
+            "title": "Fortnite: The Last Laugh Bundle - PlayStation 4",
+            "poster": "https://m.media-amazon.com/images/I/81EoKPBNneL._AC_UY218_.jpg",
+            "price": 115,
+            "brand": "WB Games en Perú",
+            "store": "amazon",
+            "weight": 0.225
+        },
+        {
+            "id": 10,
+            "title": "Fortnite: The Last Laugh Bundle (PS4)",
+            "poster": "https://m.media-amazon.com/images/I/814vTc9QPHL._AC_UY218_.jpg",
+            "price": 240,
+            "brand": "Warner Bros. en Perú",
+            "store": "amazon",
+            "weight": 0.225
+        },
+        {
+            "id": 11,
+            "title": "Mortal Kombat 11 Ultimate (PS4)",
+            "poster": "https://m.media-amazon.com/images/I/81JcCF3Rv-L._AC_UY218_.jpg",
+            "price": 249,
+            "brand": "Warner Bros. en Perú",
+            "store": "amazon",
+            "weight": 0.774
+        },
+        {
+            "id": 12,
+            "title": "Mortal Kombat 11 Kombat Pack 2 - PS4 [Digital Code]",
+            "poster": "https://m.media-amazon.com/images/I/91JKs8XBLVL._AC_UY218_.jpg",
+            "price": 59,
+            "brand": "WB Games en Perú",
+            "store": "amazon",
+            "weight": 0.540
+        },
+        {
+            "id": 13,
+            "title": "Call of Duty: Black Ops Cold War",
+            "poster": "https://m.media-amazon.com/images/I/81PRlnwbFoL._AC_UY218_.jpg",
+            "price": 225,
+            "brand": "ACTIVISION en Perú",
+            "store": "amazon",
+            "weight": 0.225
+        },
+        {
+            "id": 14,
+            "title": "Sakuna: of Rice and Ruin - Divine Edition - PlayStation 4",
+            "poster": "https://m.media-amazon.com/images/I/91StQcMj0mL._AC_UY218_.jpg",
+            "price": 229,
+            "brand": "Xseed en Perú",
+            "store": "amazon",
+            "weight": 0.225
+        },
+        {
+            "id": 15,
+            "title": "Sakuna: of Rice and Ruin - PlayStation 4",
+            "poster": "https://m.media-amazon.com/images/I/81N+HSRAy6L._AC_UY218_.jpg",
+            "price": 150,
+            "brand": "Xseed en Perú",
+            "store": "amazon",
+            "weight": 0.225
+        },
+        {
+            "id": 16,
+            "title": "XIII: Limited Edition (PS4) - PlayStation 4",
+            "poster": "https://m.media-amazon.com/images/I/81YMZHLaZAL._AC_UY218_.jpg",
+            "price": 229,
+            "brand": "Maximum Games Store en Perú",
+            "store": "amazon",
+            "weight": 0.302
+        }
+    ]
+}
